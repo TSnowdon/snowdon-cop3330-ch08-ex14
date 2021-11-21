@@ -17,7 +17,7 @@ Working with others on a programming project force each member of the process to
 That five letter keyword, "const", can save programs from crashing due to programmers changing something they weren't suppose to.
 ### Example
 As you can see in "app.cpp" we have four example functions. This is how they are constructed:
-```
+```cpp
 void test_one(const int i)
 {   
     cout << "test 1: " << i << "\n";
